@@ -1,6 +1,6 @@
 # CRM-Backend-Project
 
-Project for Udacity's Golang course - JOSHUA CALLARY
+API Project - JOSHUA CALLARY
 
 # Usage
 
