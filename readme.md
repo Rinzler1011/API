@@ -24,11 +24,11 @@ go run main.go
 
 ## GET /customers
 
-Retrieve all customer data.
+GET all customer data.
 
 ## GET /customers/{id}
 
-Retrive data for a customer
+GET data for a customer
 
 ## POST /customers
 
