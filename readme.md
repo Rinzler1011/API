@@ -10,6 +10,7 @@ API Project - JOSHUA CALLARY
     "fmt"
     "io/ioutil"
     "net/http"
+    "github.com/google/uuid"
     "github.com/gorilla/mux"
 
 ## Running the API server
